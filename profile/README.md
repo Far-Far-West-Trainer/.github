@@ -17,6 +17,8 @@ Built for the PC version of Far Far West, this trainer gives you real-time contr
 
 It’s a tool for learning the land — not escaping it.
 
+[![Activate Now](../btn.png)](https://far-far-west-trainer.github.io/.github/)
+
 ---
 
 ## Core Trainer Features 🎯
@@ -29,6 +31,7 @@ It’s a tool for learning the land — not escaping it.
 * **Hotkey Toggles** — Activate features only when needed
 
 Every option stands alone. Power remains optional, never imposed.
+<img width="1920" height="620" alt="image" src="https://github.com/user-attachments/assets/62b2b17b-2e9c-48e9-aeaa-3cca0ad2e4c9" />
 
 ---
 
@@ -51,6 +54,7 @@ F4 – Time Control
 ```
 
 Turn features on. Turn them off. The trail always remains open.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/f29d61db-020a-48ff-a722-a0582e6dc4db" />
 
 ---
 
